@@ -1,4 +1,7 @@
-# 🚀 Smart Email Assistant
+<div align="center">
+  <h1>📧 Smart Email Assistant</h1>
+</div>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/AI%20Powered-Email%20Assistant-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="AI Powered Email Assistant"/>
