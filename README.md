@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>📧 Smart Email Assistant</h1>
+  <h1>📧 IntelliMail Bot</h1>
 </div>
 
 
